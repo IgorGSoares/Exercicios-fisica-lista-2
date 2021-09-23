@@ -1,0 +1,1 @@
+Observação: tentei fazer o pulo no ex 3 usando bool, não ficou aquela coisa, mas pelo menos tem double jump
